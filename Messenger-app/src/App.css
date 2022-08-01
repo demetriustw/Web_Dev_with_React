@@ -1,0 +1,31 @@
+#conversations {
+  position: absolute;
+  width: 35rem;
+  height: 100%;
+  max-width: 16rem;
+  padding: 1rem;
+  top: -0.01%;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+}
+
+#text-box {
+  width: 159vh;
+  height: 13rem;
+  max-width: 90%;
+  margin: 34% 16.1rem;
+  padding: 3.5rem 3rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+#content {
+  position: absolute;
+  width: 159vh;
+  height: 77.6%;
+  max-width: 90%;
+  margin: 20.5%;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  top: -50%;
+  background-color: #b2a7b8;
+}

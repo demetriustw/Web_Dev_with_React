@@ -73,9 +73,7 @@ const App = () => {
         ) // <p style={{ textAlign: 'center' }}>No goals found. Maybe add one?</p>
         } */}
       </section>
-      <section id="content">
-        <Chat />
-      </section>
+      <section id="content">{/* <Chat /> */}</section>
     </div>
   );
 };

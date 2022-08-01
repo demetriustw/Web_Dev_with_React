@@ -6,8 +6,8 @@ import UserChat from "./UserChat/UserChat";
 const Chat = () => {
   return (
     <div>
-      {/* <OtherChat></OtherChat> */}
-      {/* <UserChat></UserChat> */}
+      <OtherChat></OtherChat>
+      <UserChat></UserChat>
     </div>
   );
 };

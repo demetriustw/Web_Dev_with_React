@@ -1,0 +1,80 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+.background {
+  margin-left: 145px;
+  background-color: gray;
+  width: 1000px;
+  height: 600px;
+}
+
+.messageBox {
+  margin-left: 250px;
+  background-color: gray;
+  width: 750px;
+  height: 400px;
+}
+
+.sideBar {
+  margin-top: -600px;
+  background-color: rgb(78, 78, 78);
+  box-shadow: 10px 0 25px -20px;
+  width: 250px;
+  height: 600px;
+}
+
+.sideBar .action {
+  margin-left: 0px;
+}
+
+.sideBar .addNew {
+  padding: 1rem 4.5rem;
+}
+
+.sideBar .self {
+  margin-top: 60px;
+}
+
+.textBox {
+  margin: 50px 0 0 250px;
+  background-color: rgb(78, 78, 78);
+  box-shadow: -10px -15px 50px -35px;
+  height: 150px;
+  width: 750px;
+}
+
+.textBox input {
+  display: inline;
+  margin: 60px 0 0 -150px;
+  font: inherit;
+  width: 70%;
+  border-radius: 4px;
+  border: 1px solid #38015c;
+  padding: 0.25rem;
+  background-color: #f7f0fa;
+}
+
+.action {
+  margin: -2.5rem 0 0 36rem;
+}
+
+.action button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2.5rem;
+  border-radius: 4px;
+  background-color: #38015c;
+  color: white;
+  border: 1px solid #38015c;
+}
+
+.action button:hover {
+  background-color: #540d83;
+  border-color: #540d83;
+}
